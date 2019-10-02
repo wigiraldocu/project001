@@ -13,4 +13,3 @@ Cosas hechas hasta ahora:
 * clone
 * stage y commit
 * y vamos a hacer otra cosa
-
